@@ -332,4 +332,4 @@ print(sorted_df)
 - Experiment with edge cases, like empty DataFrames or DataFrames with all missing values.
 - For each function (`groupby`, `merge`, etc.), focus on understanding **parameters** like `how`, `aggfunc`, and others.
 
-Would you like to work on coding exercises or need further clarifications?
+
